@@ -1,5 +1,4 @@
-
-- Water Tracker - Final Project
+ Water Tracker - Final Project
 
 Course: SEN210 - User Interface Programming
 Student: WALEED ALSAHLI
