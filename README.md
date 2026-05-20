@@ -18,4 +18,4 @@ Intake Metric Eraser: A specialised control option instantly resets the applicat
 - Developed using the Python language environment and cross-platform native UI rendering frameworks via PyQt5 bindings.
 - Utilised specialised window layouts subclassing QWidget to coordinate and control user interface element frames.
 - Configured structural linear layout formatting blocks (QVBoxLayout) to preserve cleanly aligned, vertically centred element distribution on desktop screens.
-- Implemented the standard native Qt Signals and Slots mechanism** to link hardware interface interactions straight to processing functions, keeping interface structures properly       divided from mathematical counter adjustments.
+- Implemented the standard native Qt Signals and Slots mechanism to link hardware interface interactions straight to processing functions, keeping interface structures properly       divided from mathematical counter adjustments.
